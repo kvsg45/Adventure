@@ -7,7 +7,7 @@ Project: Text Adventure game
 
 Stevens email: vkhande4@stevens.edu
 
-Github URL: 
+Github URL: https://github.com/kvsg45/Adventure.git
 
 Estimated hours spent on the project: 16
 
