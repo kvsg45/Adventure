@@ -1,0 +1,39 @@
+
+[
+    {"name": "1", 
+     "desc": "> You are at Level 1, Please go north to proceed!!\n",
+     "exits": { "north": 1},
+     "items": []
+    }
+   ,
+    {"name": "2", 
+     "desc": "> You entered Level 2\nThis room contains the following items:\n",
+     "exits": { "east": 2, "north": 4, "west": 3, "south": 0},
+     "items": ["apple","envelope","ink_bottle","onion","umbrella","zipper"]
+    }
+   ,
+    {"name": "3", 
+     "desc": "> You entered Level 3\nThis room contains the following items:\n",
+     "exits": { "west": 1},
+     "items": ["ball","drum","hat","kite","mirror","pan","ring"]
+    }
+   ,
+    {"name": "4",
+     "desc": "> You enetered Level 4\nThis room contains the following items:\n",
+     "exits": {"east": 1},
+     "items": ["crayons","flag","scissors","teapot","violin","xylophone"]
+    }
+    ,
+    {"name": "5",
+     "desc": "> You entered Level 5\nThis room contains the following items:\n",
+     "exits": {"north": 5, "south":1},
+     "items": ["guitar","lock","jar","necklace","quill","watch","yoyo"]
+    }
+    ,
+    {"name": "6",
+     "desc": "> This room is final destination and you need to say the secret code to the Soldier statue\n\nExits: south",
+     "exits": { "south": 4},
+     "items": []
+    }
+]
+   
