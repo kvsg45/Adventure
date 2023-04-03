@@ -2,7 +2,9 @@
 Python based designed text adventure 
 
 Name: Venkata Santosh Gouranga Khande 
+
 Project: Text Adventure game
+
 Stevens email: vkhande4@stevens.edu
 
 Github URL: 
