@@ -9,6 +9,8 @@ Stevens email: vkhande4@stevens.edu
 
 Github URL: https://github.com/kvsg45/Adventure.git
 
+To play the game save adventure.py file and map.json files in a local directory and execute python3 adventure.py map.json command in terminal
+
 Estimated hours spent on the project: 16
 
 Description for Testing the code:
